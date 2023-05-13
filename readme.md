@@ -13,7 +13,7 @@ Has the following capabailities:
 - Delete all entries
 - Delete one entry
 - Check/uncheck entry if desired
-- Saves entries to local storage (entries will persist after page refreshes)
+- Saves entries to local storage (i.e. entries will still exist after page refreshes)
 
 # Preview Image:
 <img src="resources/Screenshot.jpg" alt="to do list screenshot; one to do list entry of Return Library Book with the due date 05/11/2023" width="750">
